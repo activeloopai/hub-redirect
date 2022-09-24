@@ -10,7 +10,7 @@ config = {
     "author_email": "support@activeloop.ai",
     "install_requires": ["deeplake"],
     "zip_safe": False,
-    "url":"https://www.github.com/activeloopai/deeplake",
+    "url": "https://www.github.com/activeloopai/deeplake",
 }
 
 setup(**config)

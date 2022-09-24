@@ -1,4 +1,3 @@
 import deeplake
 
-for k in dir(deeplake):
-    exec(f"{k}=deeplake.{k}")
+globals().update(deeplake.__dict__)  # Forgive me
