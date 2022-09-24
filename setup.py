@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 config = {
-    "name": "hub",
+    "name": "hub-redirect",
     "version": "3.0.0",
     "description": "Activeloop Deep Lake",
     "long_description": "Use deeplake instead: pip install deeplake",
