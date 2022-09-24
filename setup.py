@@ -6,6 +6,7 @@ config = {
     "version": "3.0.0",
     "description": "Activeloop Deep Lake",
     "long_description": "Use deeplake instead: pip install deeplake",
+    "long_description_content_type": "text",
     "author": "activeloop.ai",
     "author_email": "support@activeloop.ai",
     "install_requires": ["deeplake"],
